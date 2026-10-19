@@ -7,3 +7,5 @@ Hier liegen nur die fertigen Pakete für die geschlossene Beta von LS-Terminal.
 - LS-Terminal ist ein unabhängiges Fan-Projekt und kein Produkt der GIANTS Software GmbH oder der Fahrzeughersteller.
 
 Kontakt: info@nue-agentur.de · NUE Agentur, Tobias Nüßmeyer
+
+Impressum: https://ls-terminal.nue-agentur.de/impressum.html · Datenschutz: https://ls-terminal.nue-agentur.de/datenschutz.html · Beta-Bedingungen: https://ls-terminal.nue-agentur.de/bedingungen.html
